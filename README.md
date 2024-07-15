@@ -1,6 +1,6 @@
 **Hunting the Manticore - A C# Game**
 
-Hunting the Manticore is a two player game and challenge progran that was created from scratch following the objectives from the book *C# Player’s Guide*. This program uses the basics of C#. 
+Hunting the Manticore is a two player game and challenge progran that was created from scratch following the objectives from the book *C# Player’s Guide*. This program demonstrates the basics of C#. 
 
 The game starts with the Manticore having 10 health points and the city having 15 health points. The game begins at round 1.
 
