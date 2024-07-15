@@ -2,7 +2,7 @@
 
 Hunting the Manticore is a two player game and challenge program that was created from scratch following the objectives from the book *C# Player’s Guide*. This program demonstrates the basics of C#. 
 
-The game starts with the Manticore having 10 health points and the city having 15 health points. The game begins at round 1.
+The game starts with the a ship, Manticore, having 10 health points and the city having 15 health points. The game begins at round 1.
 
 The first player chooses the Manticore’s distance from the city (0 to 100). The game then runs in a loop until either the Manticore’s or city’s health reaches 0.
 
